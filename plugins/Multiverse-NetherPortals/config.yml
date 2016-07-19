@@ -1,0 +1,18 @@
+bounceback: true
+worlds:
+  Utopia:
+    portalgoesto:
+      NETHER: Utopia_nether
+      END: Utopia_the_end
+  Hardcor:
+    portalgoesto:
+      NETHER: Hardcor_nether
+      END: Hardcor_the_end
+  Vera:
+    portalgoesto:
+      NETHER: Vera_nether
+      END: Vera_the_end
+  Hardcor2:
+    portalgoesto:
+      NETHER: Hardcor2_nether
+      END: Hardcor2_the_end

@@ -1,0 +1,75 @@
+# Web doc reference for event strategies:
+# http://dev.bukkit.org/server-mods/homespawnplus/pages/strategy-doc/
+#
+events:
+  # strategies to use when player is joining the game
+  onJoin:
+    - spawnDefaultWorld
+    - default
+ 
+  # strategies to use when player is respawning after a death
+  onDeath:
+    - modeHomeBedOnly
+    - homeMultiWorld
+    - modeDefault
+    - spawnLocalWorld
+
+  # strategies to use when player types "/spawn"
+  onSpawnCommand:
+    - spawnLocalWorld
+    - spawnDefaultWorld
+
+  # strategies to use when player types "/groupspawn"
+  onGroupSpawnCommand:
+    - spawnGroup
+
+  # strategies to use when player types "/home"
+  onHomeCommand:
+    - homeMultiWorld
+
+  # strategies to use when player types "/home name"
+  onNamedHomeCommand:
+    - homeNamedHome
+
+  # strategies to use when player types "/spawn name"
+  onNamedSpawnCommand:
+    - spawnNamedSpawn
+
+  # a crossWorld teleport that didn't involve Multiverse
+  crossWorldTeleport:
+    - default
+
+  # a crossWorld teleport by Multiverse
+  multiverseCrossWorldTeleport:
+    - SpawnLastLocation
+    - homeLocalWorld
+    - SpawnLocalPlayerSpawn
+    #- modeRememberLocation
+    #- SpawnWorldRandom
+    - modeDefault
+    - default
+
+  # a non-crossWorld teleport by Multiverse
+  multiverseTeleport:
+    - default
+
+#  example of world-specific strategy
+#  world:
+#    myworld:
+#      onDeath:
+#        - homeLocalWorld
+#        - spawnLocalWorld
+#      onHomeCommand:
+#        - homeLocalWorld
+#
+#  example of permission-specific strategy
+#  permission:
+#    entry1:
+#      permissions:
+#        - my.special.permission
+#      onJoin:
+#        - homeSpecificWorld:specialworld
+#        - spawnSpecificWorld:specialworld
+#      onDeath:
+#        - homeMultiWorld
+#        - homeAnyWorld

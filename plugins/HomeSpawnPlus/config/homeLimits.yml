@@ -1,0 +1,38 @@
+# ability to raise or lower the limit of homes you allow
+# players to have. Can be defined on a per-world or
+# per-permission basis. (-1 = unlimited)
+homeLimits:
+  # If singleGlobalHome is set, all other sections are ignored
+  # and a single global home is enforced. This means typing
+  # /sethome on any world will always work and it will always
+  # overwrite whatever other home you had set. This can be
+  # overridden by the permission "hsp.singleGlobalHomeExempt",
+  # in which case the limits defined below still apply.
+  singleGlobalHome: false
+
+  # If true, a link is automatically established between a
+  # base world such as "world" and it's child worlds such as
+  # "world_nether" and "world_the_end". In this scenario, if
+  # the default perWorld limit is 1, then that limit of 1
+  # applies equally to all 3 worlds (only 1 home for all 3).
+  # A new world "foo" and it's children would also have
+  # their own combined perWorld limit of 1.
+  inheritAssociatedWorlds: true
+
+  default:
+    perWorld: 1
+    global: -1
+
+#  world:
+#    myworld1:
+#      perWorld: 5
+#    # myworld2 will inherit limits from world
+#    myworld2:
+#      inherit: world
+#  permission:
+#    limit1:
+#      permissions:
+#        - my.custom.perm
+#        - group.mygroup
+#      perWorld: 3
+#      global: 10

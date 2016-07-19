@@ -1,0 +1,42 @@
+# invites are either temporary or "permanent" (a better word would
+# be persistent, since permanent invites can expire)
+#
+# Temporary invites require the other player be online and it
+# will send them a message with a timeout to accept.
+#
+# Permanent invites can be either forever or have an expiry time.
+# These can be sent even if players are offline. In addition, if
+# you send an invite to "public", the invite is available to everyone.
+homeInvite:
+  # timeout (in seconds) for temporary invites
+  timeout: 30
+
+  # If set to something other than -1, this implies that the
+  # admin wants permanent invites to be the default, rather than
+  # temporary invites.
+  #
+  # 0 would be a forever invite
+  # a string is also accepted such as "5m" for 5 minutes, or
+  # "1m 2w 5d 3h" for 1 month, 2 weeks, 5 days and 3 hours.
+  #
+  # Note if set to something other than -1, the only way for a
+  # player to send a temporary invite is to use "temp" as the
+  # time string.
+  defaultPermanentTimeout: -1
+
+  # set to true if you want /homeinviteaccept and /homeinviteteleport
+  # to use the same cooldown as /home. This respects any home-separation
+  # settings you have.
+  useHomeCooldown: true
+  # same as above, but for warmups
+  useHomeWarmup: true
+
+  # set to false if you don't want to allow
+  # players to send invite for bedHomes
+  allowBedHomeInvites: false
+
+  # set to false if you do not want to allow players to make
+  # public home invites. Note that players must have permission
+  # to make permanent home invites in order to create public
+  # invites. (homeinvite.permanent)
+  allowPublicInvites: false

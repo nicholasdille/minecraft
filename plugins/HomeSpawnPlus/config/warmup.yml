@@ -1,0 +1,32 @@
+warmup:
+  # globally enable or disable warmups.
+  enabled: false
+ 
+  # set to true if movement should cancel a warmup
+  onMoveCancel: false
+
+  # set to true if receiving damage should cancel a warmup
+  onDamageCancel: false
+
+  # individual command warmup timers
+  home: 5
+  spawn: 5
+  groupspawn: 5
+ 
+#  example of world-specific warmups
+#  world:
+#    myworld:
+#      # whether this world should have its own warmups
+#      warmupPerWorld: false
+#      home: 10
+#      spawn: 10
+#
+#  example of permission-specific warmups
+#  permission:
+#    entry1:
+#      # whether these permission should have their own warmups
+#      warmupPerPermission: false
+#      permissions:
+#        - my.special.permission
+#      home: 15
+#      spawn: 15

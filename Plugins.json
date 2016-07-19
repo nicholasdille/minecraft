@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "Multiverse",
+        "Uri": "https://ci.onarandombox.com/job/Multiverse-Core/722/artifact/target/Multiverse-Core-2.5.0-SNAPSHOT.jar",
+        "BaseName": "Multiverse-Core-2.5-b722.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "001ADC96F0F3956D6E5D7395646E2D27C50A8C1E8D292994E7F33300CC57F42A"
+        }
+    },
+    {
+        "Name": "Multiverse-Portals",
+        "Uri": "https://ci.onarandombox.com/job/Multiverse-Portals/746/artifact/target/Multiverse-Portals-2.5.0-SNAPSHOT.jar",
+        "BaseName": "Multiverse-Portals-2.5-b746.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "0E515E15FBF519B0D03159D34A3D153EB56981B066455C9289453ABFCAF5437F"
+        }
+    },
+    {
+        "Name": "Multiverse-NetherPortals",
+        "Uri": "https://ci.onarandombox.com/job/Multiverse-NetherPortals/712/artifact/target/Multiverse-NetherPortals-2.5.0-SNAPSHOT.jar",
+        "BaseName": "Multiverse-NetherPortals-2.5-b712.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "302B90B74404C987F761DD01F599E773E5AEF2DA26C91FBCDC44EF43F7170206"
+        }
+    },
+    {
+        "Name": "HomeSpawnPlus",
+        "Uri": "http://andune.com/jenkins/job/HomeSpawnPlus/637/artifact/bukkit/target/HomeSpawnPlus.jar",
+        "BaseName": "HomeSpawnPlus-2.0-b637.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "63882395C0256FFF5C67103A03171C322096B3C9A4068E7B789ACC8970B16A77"
+        }
+    },
+    {
+        "Name": "ModifyWorld",
+        "Uri": "http://dev.bukkit.org/media/files/730/259/Modifyworld.jar",
+        "BaseName": "ModifyWorld-1.19.7.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "D0B48CAFD4ECB937E33057C63C91674A98E26AAFA79603E45EE3DCCD3A30D6BA"
+        }
+    },
+    {
+        "Name": "PermissionsEx",
+        "Uri": "http://dev.bukkit.org/media/files/909/154/PermissionsEx-1.23.4.jar",
+        "BaseName": "PermissionsEx-1.23.4.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "9928015AED302324BAA597DBF62E08714ADADDBDE1F332DFDD76DD942C6EDB6E"
+        }
+    },
+    {
+        "Name": "PerWorldInventory",
+        "Uri": "http://dev.bukkit.org/media/files/921/273/PerWorldInventory-1.7.5.jar",
+        "BaseName": "PerWorldInventory-1.7.5.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "73B9DC16AFC2033FCEE8E3BD02C87A504B0A85D2066BC960C580FF144AD85BE1"
+        }
+    },
+    {
+        "Name": "SimpleBackup",
+        "Uri": "http://dev.bukkit.org/media/files/913/875/SimpleBackup-1.7.jar",
+        "BaseName": "SimpleBackup-1.7.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "6FC98299922EAF0C4CCDDDA001874B68EACD8EE6B4E4F57A6034141392A57B84"
+        }
+    },
+    {
+        "Name": "VoidWorld",
+        "Uri": "http://dev.bukkit.org/media/files/780/26/VoidWorld.jar",
+        "BaseName": "VoidWorld.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "899B2AEF48F15BD6417C74859B6BB4973B5836E46DD91AB2F2694B34A70BCD9D"
+        }
+    },
+    {
+        "Name": "WorldEdit",
+        "Uri": "http://dev.bukkit.org/media/files/922/48/worldedit-bukkit-6.1.3.jar",
+        "BaseName": "worldedit-bukkit-6.1.3.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "7D2A6631A140035A002B2C7749B7D95033804B0177D0D149276281021A562D11"
+        }
+    },
+    {
+        "Name": "LANBroadcaster",
+        "Uri": "https://www.spigotmc.org/resources/lanbroadcaster.5320/download?version=91291",
+        "BaseName": "LANBroadcaster-1.6.1.jar",
+        "Hash": {
+            "Algorithms": "SHA256",
+            "SHA256": "4243D8F5F4F0B37D977EB56C0186CCBE66EB35C32FCAF4C7EC877CF7AC4D1630"
+        }
+    }
+]

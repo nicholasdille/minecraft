@@ -1,0 +1,235 @@
+users:
+  91dfab87-e54c-4993-be7c-816c217cb5e7:
+    group:
+    - Cheater
+    - World_Hardcor
+    - World_Hardcor2
+    - World_Vera
+    - Multiverse_Admin
+    - World_Utopia_Player
+    - World_Utopia_Designer
+    - Lobby_Designer
+    - World_Lobby2_Player
+    - World_Lobby2_Designer
+    - Default_Player
+    options:
+      name: dharmakshetra
+  5c2d3727-ddd4-4e90-8d1c-12bd6e5935ce:
+    group:
+    - World_Utopia_Player
+    - World_Utopia_Designer
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: Lurk79
+  d0112cd5-612e-4570-8cb0-fd0c7e35a100:
+    group:
+    - World_Hardcor
+    - World_Hardcor2
+    - World_Hardcor3
+    - World_Vera
+    - World_VeraEmpty_Player
+    - World_VeraEmpty_Designer
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: Hardcor
+  81b1377d-f270-4fd4-8384-b42f3f9fc786:
+    group:
+    - World_Vera
+    - World_VeraEmpty_Player
+    - World_VeraEmpty_Designer
+    - World_Hardcor2
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: WeilBaumXD
+  b2c1a7a6-884b-4846-8067-276fec197ed3:
+    group:
+    - World_Hardcor
+    - World_Hardcor3
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: DjAliyor
+  f48b56fd-9ec8-4ffe-85f3-cf4368df5ad7:
+    group:
+    - World_Hardcor
+    - World_Hardcor3
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: Altrim
+  6635f3a2-ec27-4cb0-8f95-9ed5f4002931:
+    group:
+    - World_Hardcor
+    - World_Hardcor3
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: Minecra2003
+  f5f38caf-60e9-4fab-8a5e-c61da4659322:
+    group:
+    - World_Vera
+    - World_VeraEmpty_Player
+    - World_VeraEmpty_Designer
+    - World_Hardcor2
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: Pay003
+  f2cbe61e-35ba-4de4-be39-ead1e042cf6c:
+    group:
+    - World_Vera
+    - World_VeraEmpty_Player
+    - World_VeraEmpty_Designer
+    - World_Hardcor2
+    - World_Lobby2_Player
+    - Default_Player
+    options:
+      name: gambinofriend
+groups:
+  Default_Player:
+    permissions:
+    - -bukkit.command.*
+    - minecraft.command.(say|tell|kill|me|help|version|plugins)
+    - -minecraft.command.*
+    - -permissions.*
+    - multiverse.help
+    - multiverse.access.Lobby
+    - multiverse.access.Lobby2
+    - multiverse.portal.access.*
+    - multiverse.core.spawn.self
+    - -multiverse.*
+    - -worldedit.*
+    - -modifyworld.*
+    - hsp.home.bedsethome
+    - -perfectbackup.*
+    options:
+      default: true
+  Teleporter:
+    permissions:
+    - multiverse.teleport.self.w
+  Server_Admin:
+    permissions:
+    - bukkit.command.*
+    - permissions.*
+  Backup_Admin:
+    permissions:
+    - perfectbackup.*
+  Multiverse_Admin:
+    permissions:
+    - multiverse.*
+    - worldedit.*
+  Permission_Admin:
+    permissions:
+    - permissions.*
+  Cheater:
+    permissions:
+    - multiverse.teleport.self.w
+    - modifyworld.*
+    - worldedit.*
+    - minecraft.command.(defaultgamemode|difficulty|gamemode|gamerule)
+    - minecraft.command.(clear|time|summon|toggledownfall|weather|title)
+    - minecraft.command.(achievement|clear|effect|enchant|give|scoreboard|setblock|spreadsplayers|testfor|testforblock|tp|xp)
+  Lobby_Designer:
+    worlds:
+      Lobby:
+      - modifyworld.*
+  World_Utopia_Player:
+    permissions:
+    - multiverse.access.Utopia
+    - multiverse.access.Utopia_nether
+    - multiverse.access.Utopia_the_end
+  World_Utopia_Designer:
+    worlds:
+      Utopia:
+        permissions:
+        - modifyworld.*
+  World_Hardcor:
+    permissions:
+    - multiverse.access.Hardcor
+    - multiverse.access.Hardcor_nether
+    - multiverse.access.Hardcor_the_end
+    worlds:
+      Hardcor:
+        permissions:
+        - modifyworld.*
+  World_Hardcor2:
+    permissions:
+    - multiverse.access.Hardcor2
+    - multiverse.access.Hardcor2_nether
+    - multiverse.access.Hardcor2_the_end
+    worlds:
+      Hardcor2:
+        permissions:
+        - modifyworld.*
+  World_Vera:
+    permissions:
+    - multiverse.access.Vera
+    - multiverse.access.Vera_nether
+    - multiverse.access.Vera_the_end
+    worlds:
+      Vera:
+        permissions:
+        - modifyworld.*
+  World_VeraEmpty_Player:
+    permissions:
+    - multiverse.access.VeraEmpty
+    - multiverse.access.VeraEmpty_nether
+    - multiverse.access.VeraEmpty_the_end
+  World_VeraEmpty_Designer:
+    worlds:
+      VeraEmpty:
+        permissions:
+        - multiverse.teleport.self.w
+        - modifyworld.*
+        - worldedit.*
+        - minecraft.command.(defaultgamemode|difficulty|gamemode|gamerule)
+        - minecraft.command.(clear|time|summon|toggledownfall|weather|title)
+        - minecraft.command.(achievement|clear|effect|enchant|give|scoreboard|setblock|spreadsplayers|testfor|testforblock|tp|xp)
+  World_Lobby2_Player:
+    permissions:
+    - multiverse.access.Lobby2
+  World_Lobby2_Designer:
+    worlds:
+      Lobby2:
+        permissions:
+        - multiverse.teleport.self.w
+        - modifyworld.*
+        - worldedit.*
+        - minecraft.command.(defaultgamemode|difficulty|gamemode|gamerule)
+        - minecraft.command.(clear|time|summon|toggledownfall|weather|title)
+        - minecraft.command.(achievement|clear|effect|enchant|give|scoreboard|setblock|spreadsplayers|testfor|testforblock|tp|xp)
+worlds:
+  Utopia_nether:
+    inheritance:
+    - Utopia
+  Utopia_the_end:
+    inheritance:
+    - Utopia
+  Hardcor_nether:
+    inheritance:
+    - Hardcor
+  Hardcor_the_end:
+    inheritance:
+    - Hardcor
+  Hardcor2_nether:
+    inheritance:
+    - Hardcor2
+  Hardcor2_the_end:
+    inheritance:
+    - Hardcor2
+  Vera_nether:
+    inheritance:
+    - Vera
+  Vera_the_end:
+    inheritance:
+    - Vera
+  VeraEmpty_nether:
+    inheritance:
+    - VeraEmpty
+  VeraEmpty_the_end:
+    inheritance:
+    - VeraEmpty
+schema-version: 1

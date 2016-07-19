@@ -1,0 +1,30 @@
+# If you have Vault installed, HSP can use that to charge prices for
+# commands using whatever economy plugin you happen to have installed.
+# Costs will not work if you do not have Vault installed.
+#
+# http://dev.bukkit.org/server-mods/vault/
+cost:
+  # if verbose is true, the player will get a message stating that their
+  # account has been charged whenever they use a command with a cost.
+  verbose: true
+  home: 0
+  sethome: 0
+  spawn: 0
+  groupspawn: 0
+  # if sethome-multiplier is non-zero, then each additional home past
+  # the first (globally) will cost this much more. Example: sethome cost
+  # is 500, sethome-multiplier is 1.5. First home will cost 500, second
+  # will cost (500*1.5) = 750. 3rd home will cost (500*1.5*1.5) = 1125.
+  # 4th home is (500*1.5*1.5*1.5) = 1687.5, and so on.
+  sethome-multiplier: 0
+
+#  world:
+#    myworld:
+#      home: 100
+#  permission:
+#    limit1:
+#      permissions:
+#        - my.custom.perm
+#        - group.mygroup
+#      home: 250
+#      sethome: 500

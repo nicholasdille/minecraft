@@ -1,0 +1,456 @@
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Original Location: X: -176 Y: 64 Z: 76 P: 0 Y: 0 
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] New Spawn for 'world' is Located at: world:-167,50,70,00,76,50:0,00:0,00
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] New Spawn for 'world_nether' is Located at: world_nether:0,00,116,00,0,00:0,00:0,00
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:21:10 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-25 14:21:10 [INFORMATION] [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0,00,76,00,0,00:0,00:0,00
+2015-07-25 14:21:11 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:11 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:11 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-25 14:21:11 [INFORMATION] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-25 14:31:56 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL
+2015-07-25 14:32:18 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:32:18 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-25 14:32:18 [INFORMATION] [Multiverse-Core] New Spawn for 'creative' is Located at: creative:0,00,75,00,0,00:0,00:0,00
+2015-07-25 14:32:56 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL
+2015-07-25 14:33:15 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:33:15 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-25 14:33:15 [INFORMATION] [Multiverse-Core] New Spawn for 'nicholasdille-Utopia' is Located at: nicholasdille-Utopia:0,00,69,00,0,00:0,00:0,00
+2015-07-25 14:33:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL
+2015-07-25 14:33:55 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-25 14:33:55 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-25 14:33:55 [INFORMATION] [Multiverse-Core] New Spawn for 'Hardcor' is Located at: Hardcor:0,00,69,00,0,00:0,00:0,00
+2015-07-27 21:02:26 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-27 21:02:27 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:02:27 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:02:27 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:02:27 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -5723409588708833635
+2015-07-27 21:02:28 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-27 21:02:29 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-27 21:02:30 [INFORMATION] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-27 21:03:51 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & generator: VoidWorld
+2015-07-27 21:03:52 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-27 21:03:52 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-27 21:03:52 [SCHWERWIEGEND] [Multiverse-Core] New safe spawn NOT found!!!
+2015-07-27 21:06:08 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-27 21:06:08 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:06:08 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:06:08 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:06:08 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -5723409588708833635
+2015-07-27 21:06:09 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-27 21:06:11 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-27 21:06:13 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 755632795718341188 & generator: VoidWorld
+2015-07-27 21:06:13 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-27 21:06:13 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-27 21:06:13 [SCHWERWIEGEND] [Multiverse-Core] New safe spawn NOT found!!!
+2015-07-27 21:06:13 [INFORMATION] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-27 21:13:11 [WARNUNG] [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+2015-07-27 21:13:11 [WARNUNG] [Multiverse-Core] To unload it using multiverse, use:
+2015-07-27 21:13:11 [WARNUNG] [Multiverse-Core] /mv import lobby NORMAL
+2015-07-27 21:13:41 [WARNUNG] [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+2015-07-27 21:13:41 [WARNUNG] [Multiverse-Core] To unload it using multiverse, use:
+2015-07-27 21:13:41 [WARNUNG] [Multiverse-Core] /mv import lobby NORMAL
+2015-07-27 21:14:17 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-27 21:14:17 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:14:18 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:14:18 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:14:18 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -5723409588708833635
+2015-07-27 21:14:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-27 21:14:20 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-27 21:14:21 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 755632795718341188 & generator: VoidWorld
+2015-07-27 21:14:23 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-27 21:14:23 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-27 21:14:23 [SCHWERWIEGEND] [Multiverse-Core] New safe spawn NOT found!!!
+2015-07-27 21:14:23 [INFORMATION] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-27 21:16:42 [WARNUNG] [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+2015-07-27 21:16:42 [WARNUNG] [Multiverse-Core] To unload it using multiverse, use:
+2015-07-27 21:16:42 [WARNUNG] [Multiverse-Core] /mv import lobby NORMAL
+2015-07-27 21:16:52 [WARNUNG] [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+2015-07-27 21:16:52 [WARNUNG] [Multiverse-Core] To unload it using multiverse, use:
+2015-07-27 21:16:52 [WARNUNG] [Multiverse-Core] /mv import lobby NORMAL
+2015-07-27 21:17:42 [INFORMATION] [Multiverse-Core] World 'creative' was unloaded from memory.
+2015-07-27 21:17:49 [INFORMATION] [Multiverse-Core] World 'Lobby' was unloaded from memory.
+2015-07-27 21:17:59 [INFORMATION] [Multiverse-Core] Multiverse does not know about lobby and it's not loaded by Bukkit.
+2015-07-27 21:18:21 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & generator: VoidWorld
+2015-07-27 21:18:22 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-27 21:18:22 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-27 21:18:22 [SCHWERWIEGEND] [Multiverse-Core] New safe spawn NOT found!!!
+2015-07-27 21:47:41 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-27 21:47:41 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:47:41 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:47:41 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:47:41 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -5723409588708833635
+2015-07-27 21:48:02 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-27 21:48:03 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-27 21:48:04 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-27 21:48:04 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-27 21:48:04 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-27 21:48:04 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby' is Located at: Lobby:2,50,1,00,0,50:0,00:0,00
+2015-07-27 21:48:04 [INFORMATION] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-27 21:48:29 [INFORMATION] [Multiverse-Core] World 'creative' was unloaded from memory.
+2015-07-27 21:48:35 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:48:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:48:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -777547206738293929
+2015-07-27 21:48:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -5723409588708833635
+2015-07-27 21:48:38 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-27 21:48:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-27 21:48:40 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-27 21:48:40 [INFORMATION] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-27 21:48:49 [INFORMATION] [Multiverse-Core] World 'creative' was unloaded from memory.
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 22:56:06 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 22:56:06 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_nether' is Located at: Lobby_nether:0,00,76,00,0,00:0,00:0,00
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 22:56:06 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 22:56:06 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_the_end' is Located at: Lobby_the_end:0,00,64,00,0,00:0,00:0,00
+2015-07-28 22:56:06 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-28 22:56:07 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-28 22:56:09 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-28 22:56:09 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 22:56:09 [WARNUNG] [Multiverse-Core] Original Location: X: -134 Y: 64 Z: 290 P: 0 Y: 0 
+2015-07-28 22:56:09 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby' is Located at: Lobby:-132,50,64,00,290,50:0,00:0,00
+2015-07-28 22:56:09 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 22:56:09 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 22:56:09 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-28 22:56:09 [WARNUNG] [Multiverse-Core] The world specified as the spawn world (world) did not exist!!
+2015-07-28 22:56:32 [WARNUNG] [Multiverse-Core] The world specified as the spawn world (world) did not exist!!
+2015-07-28 22:56:32 [WARNUNG] [Multiverse-Core] The world specified as the spawn world (world) did not exist!!
+2015-07-28 23:00:59 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:00:59 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-28 23:01:00 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-28 23:01:01 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-28 23:01:01 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:01:01 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:01:01 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-28 23:03:36 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:03:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-28 23:03:38 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-28 23:03:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-28 23:03:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:03:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:03:39 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-28 23:04:22 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'nicholasdille-Utopia' - Env: NORMAL - Type: NORMAL & seed: 7096277315691450108
+2015-07-28 23:04:22 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -5852153737774153507
+2015-07-28 23:04:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-28 23:04:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:04:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:04:25 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-28 23:08:00 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:08:00 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 6270332199158333395 & generator: VoidWorld
+2015-07-28 23:08:00 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:08:00 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -7622285557293066020
+2015-07-28 23:08:00 [INFORMATION] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-28 23:11:15 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:11:15 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:15 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 23:11:15 [WARNUNG] [Multiverse-Core] Original Location: X: 164 Y: 64 Z: 60 P: 0 Y: 0 
+2015-07-28 23:11:15 [INFORMATION] [Multiverse-Core] New Spawn for 'world' is Located at: world:170,50,64,00,66,50:0,00:0,00
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:16 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 23:11:16 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] New Spawn for 'world_nether' is Located at: world_nether:0,00,41,00,0,00:0,00:0,00
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:16 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 23:11:16 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0,00,63,00,0,00:0,00:0,00
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:16 [INFORMATION] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-28 23:11:43 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:11:43 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:43 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:43 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:11:43 [INFORMATION] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-28 23:12:04 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & generator: VoidWorld
+2015-07-28 23:12:05 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 23:12:05 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 23:12:05 [SCHWERWIEGEND] [Multiverse-Core] New safe spawn NOT found!!!
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-28 23:19:37 [INFORMATION] [Multiverse-Core] 4 - World(s) loaded.
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-28 23:25:45 [INFORMATION] [Multiverse-Core] 4 - World(s) loaded.
+2015-07-28 23:33:22 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL
+2015-07-28 23:33:40 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-28 23:33:40 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-28 23:33:40 [INFORMATION] [Multiverse-Core] New Spawn for 'Utopia' is Located at: Utopia:0,00,64,00,0,00:0,00:0,00
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-28 23:35:24 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-28 23:35:25 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 10:19:19 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 10:19:20 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-31 10:52:33 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 10:52:33 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:52:34 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:52:34 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 10:52:34 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 10:52:34 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 10:52:35 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:05:23 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:05:24 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-31 11:15:36 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:15:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:15:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:15:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:15:36 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:15:37 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:15:38 [INFORMATION] [Multiverse-Core] 5 - World(s) loaded.
+2015-07-31 11:15:58 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL
+2015-07-31 11:16:17 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-31 11:16:17 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-31 11:16:17 [INFORMATION] [Multiverse-Core] New Spawn for 'Hardcor' is Located at: Hardcor:0,00,67,00,0,00:0,00:0,00
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:43:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:43:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -1047136018725362480
+2015-07-31 11:43:43 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:52:12 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:52:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 11:52:14 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 11:54:03 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:54:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 11:54:05 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 11:57:04 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 11:57:05 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 11:57:06 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 12:14:53 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 12:14:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 12:14:55 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 15:34:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 15:34:14 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 15:39:14 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 15:39:15 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 15:39:15 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-07-31 16:00:18 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL
+2015-07-31 16:00:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-31 16:00:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-31 16:00:26 [INFO] [Multiverse-Core] New Spawn for 'Vera' is Located at: Vera:0,00,85,00,0,00:0,00:0,00
+2015-07-31 16:24:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 16:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:24:02 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 16:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 16:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 16:24:03 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-07-31 16:24:04 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-31 16:43:05 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 16:43:05 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:43:05 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:43:06 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:43:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 16:43:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 16:43:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 16:43:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-07-31 16:43:07 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 16:47:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 16:47:10 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 16:47:10 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-07-31 16:47:11 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 16:47:44 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 16:47:45 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 16:47:45 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-07-31 16:47:46 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-07-31 16:49:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-07-31 16:49:41 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-07-31 16:49:42 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-07-31 16:49:42 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -2700670903092003980
+2015-08-01 14:31:10 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-08-01 14:31:10 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_nether' is Located at: Lobby_nether:0,00,82,00,0,00:0,00:0,00
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -2700670903092003980
+2015-08-01 14:31:10 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-08-01 14:31:10 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_the_end' is Located at: Lobby_the_end:0,00,63,00,0,00:0,00:0,00
+2015-08-01 14:31:10 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8711335535064091530
+2015-08-01 14:31:31 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8711335535064091530
+2015-08-01 14:31:46 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8711335535064091530
+2015-08-01 14:31:50 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-01 14:31:51 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-01 14:31:52 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-01 14:31:53 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-01 14:31:54 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: -2700670903092003980
+2015-08-01 14:31:54 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: -2700670903092003980
+2015-08-01 14:31:54 [INFORMATION] [Multiverse-Core] 9 - World(s) loaded.
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-01 15:13:39 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-08-01 15:13:39 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_nether' is Located at: Lobby_nether:0,00,110,00,0,00:0,00:0,00
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-01 15:13:39 [WARNUNG] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-08-01 15:13:39 [WARNUNG] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] New Spawn for 'Lobby_the_end' is Located at: Lobby_the_end:0,00,64,00,0,00:0,00:0,00
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-01 15:13:39 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-01 15:13:40 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-01 15:13:41 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-01 15:13:43 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-01 15:13:43 [INFORMATION] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-01 15:13:43 [INFORMATION] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-11 09:38:38 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-11 09:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-11 09:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-11 09:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-11 09:38:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-11 09:38:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 09:38:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 09:38:40 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-11 09:45:38 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-11 09:45:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-11 09:45:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-11 09:45:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-11 09:45:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-11 09:45:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 09:45:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 09:45:40 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-11 10:24:20 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-11 10:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-11 10:24:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-11 10:24:21 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-11 10:24:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-11 10:24:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 10:24:22 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 10:24:22 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-11 12:05:13 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-11 12:05:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-11 12:05:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-11 12:05:13 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-11 12:05:14 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-11 12:05:15 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 12:05:15 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-11 12:05:15 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-16 22:19:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-16 22:19:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-16 22:19:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-16 22:19:55 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-16 22:19:56 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-16 22:19:56 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-16 22:19:56 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-16 22:19:56 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-16 22:33:10 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-16 22:33:10 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-16 22:33:10 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-16 22:33:10 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-16 22:33:11 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-16 22:33:12 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-16 22:33:12 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-16 22:33:12 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-18 21:37:52 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-08-18 21:37:52 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby' - Env: NORMAL - Type: NORMAL & seed: 9214595542742473357 & generator: VoidWorld
+2015-08-18 21:37:52 [INFO] [Multiverse-Core] Loading World & Settings - 'Utopia' - Env: NORMAL - Type: NORMAL & seed: -3672150931084119426
+2015-08-18 21:37:53 [INFO] [Multiverse-Core] Loading World & Settings - 'Hardcor' - Env: NORMAL - Type: NORMAL & seed: -2414669445685036752
+2015-08-18 21:37:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Vera' - Env: NORMAL - Type: NORMAL & seed: -7834511549605465155
+2015-08-18 21:37:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_nether' - Env: NETHER - Type: NORMAL & seed: 8170423717176393644
+2015-08-18 21:37:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Lobby_the_end' - Env: THE_END - Type: NORMAL & seed: 8170423717176393644
+2015-08-18 21:37:54 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Multiverse-Core Version: 2.4-b527
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Bukkit Version: git-Spigot-fdc1440-53fac9f (MC: 1.8.8)
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Loaded Worlds: 6
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Multiverse Plugins Loaded: 1
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Economy being used: Simple Item Economy
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Permissions Plugin: Bukkit Permissions (SuperPerms)
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Dumping Config Values: (version 2.9)
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  messagecooldown: 5000
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  teleportcooldown: 1000
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  worldnameprefix: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  enforceaccess: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  displaypermerrors: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  teleportintercept: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  firstspawnoverride: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  firstspawnworld: Lobby
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core]  debug: 0
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Core] Special Code: FRN002
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals] Multiverse-Portals Version: 2.4-b548
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals] Loaded Portals: 3
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals] Dumping Portal Values: (version 2.7)
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  wand: 271
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  useonmove: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  enforceportalaccess: true
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  portalsdefaulttonether: false
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  portalcooldown: 1000
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals]  clearonremove: false
+2015-08-22 15:19:22 [INFO] [Multiverse-Core] [Multiverse-Portals] Special Code: FRN001

@@ -1,0 +1,51 @@
+# cooldowns for various commands can be defined here
+# A cooldown of 0 is no cooldown at all.
+cooldown:
+  home: 60
+  # if set, overrides "home" cooldown for named homes
+  home-named: 0
+ 
+  sethome: 0
+  # if set, overrides "sethome" cooldown for named homes
+  sethome-named: 0
+
+  spawn: 60
+  # if set, overrides "spawn" cooldown for named spawns
+  spawn-named: 0
+ 
+  groupspawn: 60
+
+  homeinvitetp: 60
+
+  # if set to true, cooldowns reset on death
+  resetOnDeath: false
+ 
+  # any cooldowns listed here will be on separate timers per
+  # command argument. for example if "home-named" is listed,
+  # then typing "/home home1" would start home1's cooldown,
+  # and "/home home2" will be on a separate cooldown.
+#  separation: 
+#  - home-named
+#  - spawn-named
+#  - sethome-named
+#  - homeinvitetp
+  
+#  example of world-specific cooldowns
+#  world:
+#    myworld:
+#      # whether this world should have its own cooldowns
+#      cooldownPerWorld: false
+#      home: 120
+#      spawn: 120
+#      # resetOnDeath can be per-world or even per-permission
+#      resetOnDeath: true
+#
+#  example of permission-specific cooldowns
+#  permission:
+#    entry1:
+#      # whether these permission should have their own cooldowns
+#      cooldownPerPermission: false
+#      permissions:
+#        - my.special.permission
+#      home: 30
+#      spawn: 30

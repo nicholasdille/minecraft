@@ -1,0 +1,60 @@
+# HSP/dynmap integration. Features heavily borrowed from Mike Primm's
+# excellent Commandbook/dynmap integration, so please refer to that
+# for any documentation of config options. http://goo.gl/SLXOL
+dynmap:
+  # Set to true to enable this module, otherwise it is completely
+  # disabled
+  enabled: false
+
+  update:
+    # Seconds between position updates
+    period: 300.0
+    
+  layer:
+    homes:
+      enable: true
+      # by default, HSP will render the default home. You can also tell
+      # it to render any bed homes or even all named homes
+      include-bed-home: true
+      include-named-homes: true
+      name: "Homes"
+      # Make home layer hidden by default
+      hidebydefault: false
+      # ordering priority in layer menu (low goes before high - default is 0)
+      layerprio: 20
+      # (optional) set minimum zoom level when mob icons should be visible (0=default, any zoom)
+      minzoom: 0
+      # Default icon for home markers
+      deficon: house
+      # Label format - substitute %name% for player's name
+      labelfmt: "%name%"
+      # (optional) List of visible homes (by user ID) - if non-empty, only these will be shown.
+      # To show all homes on a given world, include "world:<worldname>" in the string list
+      visiblemarkers: []
+      # (optional) List of hidden homes (by user ID)
+      # To hide all homes on a given world, include "world:<worldname>" in the string list
+      hiddenmarkers: []
+      # (optional) If set to true, only show homes of online players
+      online-only: false
+    spawns:
+      enable: true
+      # by default, HSP will render named spawns. You can disable it here, or
+      # create separate layers using this flag
+      include-named-spawns: true
+      name: "Spawns"
+      # Make warp layer hidden by default
+      hidebydefault: false
+      # ordering priority in layer menu (low goes before high - default is 0)
+      layerprio: 21
+      # (optional) set minimum zoom level when mob icons should be visible (0=default, any zoom)
+      minzoom: 0
+      # Default icon for warp markers
+      deficon: world
+      # Label format - substitute %name% for warp's name
+      labelfmt: "[%name%]"
+      # (optional) List of visible spawns (by spawn name) - if non-empty, only these will be shown.
+      # To show all spawns on a given world, include "world:<worldname>" in the string list
+      visiblemarkers: []
+      # (optional) List of hidden spawns (by spawn name)
+      # To hide all spawns on a given world, include "world:<worldname>" in the string list
+      hiddenmarkers: []
