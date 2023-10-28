@@ -1,1 +1,7 @@
-[{"name":"Minecra2003","uuid":"6635f3a2-ec27-4cb0-8f95-9ed5f4002931","expiresOn":"2016-07-27 14:43:13 +0200"},{"name":"Hardcor","uuid":"d0112cd5-612e-4570-8cb0-fd0c7e35a100","expiresOn":"2016-07-26 21:39:01 +0200"},{"name":"WeilBaumXD","uuid":"81b1377d-f270-4fd4-8384-b42f3f9fc786","expiresOn":"2016-07-12 17:37:23 +0200"},{"name":"dharmakshetra","uuid":"91dfab87-e54c-4993-be7c-816c217cb5e7","expiresOn":"2016-05-06 19:34:26 +0200"},{"name":"DjAliyor","uuid":"b2c1a7a6-884b-4846-8067-276fec197ed3","expiresOn":"2016-06-04 17:21:49 +0200"}]
+[
+    {
+        "name": "dharmakshetra",
+        "uuid": "91dfab87-e54c-4993-be7c-816c217cb5e7",
+        "expiresOn": "2016-05-06 19:34:26 +0200"
+    }
+]

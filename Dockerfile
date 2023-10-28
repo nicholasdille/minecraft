@@ -1,0 +1,82 @@
+#syntax:docker/dockerfile:1.6
+
+FROM ubuntu:22.04 AS base
+RUN <<EOF
+apt-get update
+apt-get -y install --no-install-recommends \
+    curl \
+    ca-certificates
+EOF
+
+FROM base AS multiverse-core
+# renovate: datasource=github-releases depName=Multiverse/Multiverse-Core
+ARG MULTI_VERSE_CORE_VERSION="4.3.12"
+RUN <<EOF
+curl --silent --show-error --location --fail --output multiverse-core.jar \
+    "https://github.com/Multiverse/Multiverse-Core/releases/download/${MULTI_VERSE_CORE_VERSION}/multiverse-core-${MULTI_VERSE_CORE_VERSION}.jar"
+EOF
+
+FROM base AS multiverse-portals
+# renovate: datasource=github-releases depName=Multiverse/Multiverse-Portals
+ARG MULTIVERSE_PORTALS_VERSION="4.2.3"
+RUN <<EOF
+curl --silent --show-error --location --fail --output multiverse-portals.jar \
+    "https://github.com/Multiverse/Multiverse-Portals/releases/download/${MULTIVERSE_PORTALS_VERSION}/multiverse-portals-${MULTIVERSE_PORTALS_VERSION}.jar"
+EOF
+
+FROM base AS multiverse-netherportals
+# renovate: datasource=github-releases depName=Multiverse/Multiverse-NetherPortals
+ARG MULTIVERSE_NETHERPORTALS_VERSION="4.2.3"
+RUN <<EOF
+curl --silent --show-error --location --fail --output multiverse-netherportals.jar \
+    "https://github.com/Multiverse/Multiverse-NetherPortals/releases/download/${MULTIVERSE_NETHERPORTALS_VERSION}/multiverse-netherportals-${MULTIVERSE_NETHERPORTALS_VERSION}.jar"
+EOF
+
+FROM base AS multiverse-inventories
+# renovate: datasource=github-releases depName=Multiverse/Multiverse-Inventories
+ARG MULTIVERSE_INVENTORIES_VERSION="4.2.6"
+RUN <<EOF
+curl --silent --show-error --location --fail --output multiverse-inventories.jar \
+    "https://github.com/Multiverse/Multiverse-Inventories/releases/download/${MULTIVERSE_INVENTORIES_VERSION}/multiverse-inventories-${MULTIVERSE_INVENTORIES_VERSION}.jar"
+EOF
+
+FROM base AS luckperms
+## renovate: datasource=github-releases depName=LuckPerms/LuckPerms
+ARG LUCKPERMS_VERSION="5.4.106"
+RUN <<EOF
+curl --silent --show-error --location --fail --output luckperms.jar \
+    "https://download.luckperms.net/1519/bukkit/loader/LuckPerms-Bukkit-${LUCKPERMS_VERSION}.jar"
+EOF
+
+FROM base AS voidworld
+## renovate: datasource=github-releases depName=chaseoes/VoidWorld
+ARG VOIDWORLD_VERSION="1.0"
+RUN <<EOF
+curl --silent --show-error --location --fail --output voidworld.jar \
+    "https://dev.bukkit.org/projects/voidworld/files/780026/download"
+EOF
+
+FROM base AS cleanroomgenerator
+## renovate: datasource=github-releases depName=nvx/CleanroomGenerator
+ARG CLEANROOMGENERATOR_VERSION="1.2.1"
+RUN <<EOF
+curl --silent --show-error --location --fail --output cleanroomgenerator.jar \
+    "https://dev.bukkit.org/projects/cleanroomgenerator/files/3596715/download"
+EOF
+
+FROM base AS worldedit
+## renovate: datasource=github-releases depName=EngineHub/WorldEdit
+ARG WORLDEDIT_VERSION="7.2.17"
+RUN <<EOF
+curl --silent --show-error --location --fail --output worldedit.jar \
+    "https://dev.bukkit.org/projects/worldedit/files/4793142/download"
+EOF
+
+FROM ghcr.io/nicholasdille/papermc:latest
+USER root
+COPY --from=multiverse-core /multiverse-core.jar /opt/minecraft-plugins/
+COPY --from=multiverse-portals /multiverse-portals.jar /opt/minecraft-plugins/
+COPY --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
+COPY --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
+COPY --from=luckperms /luckperms.jar /opt/minecraft-plugins/
+USER minecraft
