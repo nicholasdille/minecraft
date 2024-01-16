@@ -72,6 +72,19 @@ curl --silent --show-error --location --fail --output worldedit.jar \
     "https://dev.bukkit.org/projects/worldedit/files/4793142/download"
 EOF
 
+FROM gradle:8.5.0-jdk17 AS dynmap
+## renovate: datasource=github-tags depName=webbukkit/dynmap versioning=loose
+ARG DYNMAP_VERSION="3.7-beta-4"
+WORKDIR /tmp/dynmap
+RUN git clone -q --config advice.detachedHead=false --depth 1 --branch "v${DYNMAP_VERSION}" https://github.com/webbukkit/dynmap .
+COPY dynmap-settings.gradle settings.gradle
+RUN <<EOF
+./gradlew :forge-1.20.2:build
+cp ./target/Dynmap-3.7-beta-4-forge-1.20.2.jar /Dynmap.jar
+cp ./target/DynmapCore-3.7-beta-4.jar /DynmapCore.jar
+cp ./target/DynmapCoreAPI-3.7-beta-4.jar /DynmapCoreAPI.jar
+EOF
+
 FROM ghcr.io/nicholasdille/papermc:latest
 USER root
 COPY --from=multiverse-core /multiverse-core.jar /opt/minecraft-plugins/
@@ -79,4 +92,5 @@ COPY --from=multiverse-portals /multiverse-portals.jar /opt/minecraft-plugins/
 COPY --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
 COPY --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
 COPY --from=luckperms /luckperms.jar /opt/minecraft-plugins/
+COPY --from=dynmap /*.jar /opt/minecraft-plugins/
 USER minecraft
