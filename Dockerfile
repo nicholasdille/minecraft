@@ -71,7 +71,15 @@ curl --silent --show-error --location --fail --output worldedit.jar \
     "https://dev.bukkit.org/projects/worldedit/files/4954406/download"
 EOF
 
-FROM gradle:8.5.0-jdk17 AS dynmap
+FROM base AS dynmap
+# renovate: datasource=github-tags depName=webbukkit/dynmap versioning=loose
+ARG DYNMAP_VERSION="3.7-beta-4"
+RUN <<EOF
+curl --silent --show-error --location --fail --output dynmap.jar \
+    "https://dev.bukkit.org/projects/dynmap/files/4978992/download"
+EOF
+
+FROM gradle:8.5.0-jdk17 AS dynmap-build
 # renovate: datasource=github-tags depName=webbukkit/dynmap versioning=loose
 ARG DYNMAP_VERSION="3.7-beta-4"
 WORKDIR /tmp/dynmap
@@ -86,10 +94,10 @@ cp ./target/DynmapCoreAPI-3.7-beta-4.jar /DynmapCoreAPI.jar
 EOF
 
 FROM ghcr.io/nicholasdille/papermc:latest
-COPY --from=multiverse-core /multiverse-core.jar /opt/minecraft-plugins/
-COPY --from=multiverse-portals /multiverse-portals.jar /opt/minecraft-plugins/
-COPY --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
-COPY --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
-COPY --from=luckperms /luckperms.jar /opt/minecraft-plugins/
-COPY --from=dynmap /*.jar /opt/minecraft-plugins/
-COPY eula.txt server.properties *.json *.yml ./
+COPY --chown=minecraft:minecraft --from=multiverse-core /multiverse-core.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=multiverse-portals /multiverse-portals.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=luckperms /luckperms.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=dynmap /dynmap.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft eula.txt server.properties *.json *.yml ./
