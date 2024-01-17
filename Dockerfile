@@ -82,7 +82,7 @@ RUN git clone -q --config advice.detachedHead=false --depth 1 --branch "v${DYNMA
 COPY dynmap-settings.gradle settings.gradle
 RUN <<EOF
 ./gradlew :forge-1.20.2:build
-find target -type f -name "*.jar"
+find . -type f -name "*.jar"
 cp ./target/Dynmap-3.7-beta-4-forge-1.20.2.jar /Dynmap.jar
 cp ./target/DynmapCore-3.7-beta-4.jar /DynmapCore.jar
 cp ./target/DynmapCoreAPI-3.7-beta-4.jar /DynmapCoreAPI.jar
