@@ -41,23 +41,24 @@ curl --silent --show-error --location --fail --output multiverse-inventories.jar
 EOF
 
 FROM base AS luckperms
-## renovate: datasource=github-releases depName=LuckPerms/LuckPerms
-ARG LUCKPERMS_VERSION="5.4.106"
+# @TODO: Build from source
+# renovate: datasource=docker depName=ghcr.io/luckperms/luckperms extractVersion=^v(?<version>.+)$
+ARG LUCKPERMS_VERSION="5.4.116"
 RUN <<EOF
 curl --silent --show-error --location --fail --output luckperms.jar \
-    "https://download.luckperms.net/1519/bukkit/loader/LuckPerms-Bukkit-${LUCKPERMS_VERSION}.jar"
+    "https://download.luckperms.net/1529/bukkit/loader/LuckPerms-Bukkit-${LUCKPERMS_VERSION}.jar"
 EOF
 
 FROM base AS voidworld
-## renovate: datasource=github-releases depName=chaseoes/VoidWorld
-ARG VOIDWORLD_VERSION="1.0"
+# @TODO: Build from master (no tags)
 RUN <<EOF
 curl --silent --show-error --location --fail --output voidworld.jar \
     "https://dev.bukkit.org/projects/voidworld/files/780026/download"
 EOF
 
 FROM base AS cleanroomgenerator
-## renovate: datasource=github-releases depName=nvx/CleanroomGenerator
+# @TODO: Build from source
+# renovate: datasource=github-tags depName=nvx/CleanroomGenerator extractVersion=^v(?<version>.+)$
 ARG CLEANROOMGENERATOR_VERSION="1.2.1"
 RUN <<EOF
 curl --silent --show-error --location --fail --output cleanroomgenerator.jar \
@@ -65,15 +66,16 @@ curl --silent --show-error --location --fail --output cleanroomgenerator.jar \
 EOF
 
 FROM base AS worldedit
-## renovate: datasource=github-releases depName=EngineHub/WorldEdit
+# @TODO: Build from source
+# renovate: datasource=github-tags depName=EngineHub/WorldEdit
 ARG WORLDEDIT_VERSION="7.2.17"
 RUN <<EOF
 curl --silent --show-error --location --fail --output worldedit.jar \
-    "https://dev.bukkit.org/projects/worldedit/files/4793142/download"
+    "https://dev.bukkit.org/projects/worldedit/files/4954406/download"
 EOF
 
 FROM gradle:8.5.0-jdk17 AS dynmap
-## renovate: datasource=github-tags depName=webbukkit/dynmap versioning=loose
+# renovate: datasource=github-tags depName=webbukkit/dynmap versioning=loose
 ARG DYNMAP_VERSION="3.7-beta-4"
 WORKDIR /tmp/dynmap
 RUN git clone -q --config advice.detachedHead=false --depth 1 --branch "v${DYNMAP_VERSION}" https://github.com/webbukkit/dynmap .
