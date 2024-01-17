@@ -86,11 +86,10 @@ cp ./target/DynmapCoreAPI-3.7-beta-4.jar /DynmapCoreAPI.jar
 EOF
 
 FROM ghcr.io/nicholasdille/papermc:latest
-USER root
 COPY --from=multiverse-core /multiverse-core.jar /opt/minecraft-plugins/
 COPY --from=multiverse-portals /multiverse-portals.jar /opt/minecraft-plugins/
 COPY --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
 COPY --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
 COPY --from=luckperms /luckperms.jar /opt/minecraft-plugins/
 COPY --from=dynmap /*.jar /opt/minecraft-plugins/
-USER minecraft
+COPY eula.txt server.properties *.json *.yml ./
