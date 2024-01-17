@@ -29,7 +29,7 @@ include ':bukkit-helper'
 include ':dynmap-api'
 include ':DynmapCore'
 include ':DynmapCoreAPI'
-//include ':fabric-1.20.4'
+include ':fabric-1.20.4'
 //include ':fabric-1.20.2'
 //include ':fabric-1.20'
 //include ':fabric-1.19.4'
@@ -48,23 +48,23 @@ include ':forge-1.20.2'
 //include ':forge-1.14.4'
 
 project(':spigot').projectDir = "$rootDir/spigot" as File
-//project(':bukkit-helper-113-2').projectDir = "$rootDir/bukkit-helper-113-2" as File
-//project(':bukkit-helper-114-1').projectDir = "$rootDir/bukkit-helper-114-1" as File
-//project(':bukkit-helper-115').projectDir = "$rootDir/bukkit-helper-115" as File
-//project(':bukkit-helper-116').projectDir = "$rootDir/bukkit-helper-116" as File
-//project(':bukkit-helper-116-2').projectDir = "$rootDir/bukkit-helper-116-2" as File
-//project(':bukkit-helper-116-3').projectDir = "$rootDir/bukkit-helper-116-3" as File
-//project(':bukkit-helper-116-4').projectDir = "$rootDir/bukkit-helper-116-4" as File
-//project(':bukkit-helper-117').projectDir = "$rootDir/bukkit-helper-117" as File
-//project(':bukkit-helper-118').projectDir = "$rootDir/bukkit-helper-118" as File
-//project(':bukkit-helper-118-2').projectDir = "$rootDir/bukkit-helper-118-2" as File
-//project(':bukkit-helper-119').projectDir = "$rootDir/bukkit-helper-119" as File
-//project(':bukkit-helper-119-3').projectDir = "$rootDir/bukkit-helper-119-3" as File
-//project(':bukkit-helper-119-4').projectDir = "$rootDir/bukkit-helper-119-4" as File
-//project(':bukkit-helper-120').projectDir = "$rootDir/bukkit-helper-120" as File
-//project(':bukkit-helper-120-2').projectDir = "$rootDir/bukkit-helper-120-2" as File
-//project(':bukkit-helper-120-4').projectDir = "$rootDir/bukkit-helper-120-4" as File
-//project(':bukkit-helper').projectDir = "$rootDir/bukkit-helper" as File
+project(':bukkit-helper-113-2').projectDir = "$rootDir/bukkit-helper-113-2" as File
+project(':bukkit-helper-114-1').projectDir = "$rootDir/bukkit-helper-114-1" as File
+project(':bukkit-helper-115').projectDir = "$rootDir/bukkit-helper-115" as File
+project(':bukkit-helper-116').projectDir = "$rootDir/bukkit-helper-116" as File
+project(':bukkit-helper-116-2').projectDir = "$rootDir/bukkit-helper-116-2" as File
+project(':bukkit-helper-116-3').projectDir = "$rootDir/bukkit-helper-116-3" as File
+project(':bukkit-helper-116-4').projectDir = "$rootDir/bukkit-helper-116-4" as File
+project(':bukkit-helper-117').projectDir = "$rootDir/bukkit-helper-117" as File
+project(':bukkit-helper-118').projectDir = "$rootDir/bukkit-helper-118" as File
+project(':bukkit-helper-118-2').projectDir = "$rootDir/bukkit-helper-118-2" as File
+project(':bukkit-helper-119').projectDir = "$rootDir/bukkit-helper-119" as File
+project(':bukkit-helper-119-3').projectDir = "$rootDir/bukkit-helper-119-3" as File
+project(':bukkit-helper-119-4').projectDir = "$rootDir/bukkit-helper-119-4" as File
+project(':bukkit-helper-120').projectDir = "$rootDir/bukkit-helper-120" as File
+project(':bukkit-helper-120-2').projectDir = "$rootDir/bukkit-helper-120-2" as File
+project(':bukkit-helper-120-4').projectDir = "$rootDir/bukkit-helper-120-4" as File
+project(':bukkit-helper').projectDir = "$rootDir/bukkit-helper" as File
 project(':dynmap-api').projectDir = "$rootDir/dynmap-api" as File
 project(':DynmapCore').projectDir = "$rootDir/DynmapCore" as File
 project(':DynmapCoreAPI').projectDir = "$rootDir/DynmapCoreAPI" as File

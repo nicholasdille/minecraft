@@ -41,7 +41,6 @@ curl --silent --show-error --location --fail --output multiverse-inventories.jar
 EOF
 
 FROM base AS luckperms
-# @TODO: Build from source
 # renovate: datasource=docker depName=ghcr.io/luckperms/luckperms extractVersion=^v(?<version>.+)$
 ARG LUCKPERMS_VERSION="5.4.116"
 RUN <<EOF
@@ -50,14 +49,13 @@ curl --silent --show-error --location --fail --output luckperms.jar \
 EOF
 
 FROM base AS voidworld
-# @TODO: Build from master (no tags)
+# /mv create <world name> normal -g VoidWorld
 RUN <<EOF
 curl --silent --show-error --location --fail --output voidworld.jar \
     "https://dev.bukkit.org/projects/voidworld/files/780026/download"
 EOF
 
 FROM base AS cleanroomgenerator
-# @TODO: Build from source
 # renovate: datasource=github-tags depName=nvx/CleanroomGenerator extractVersion=^v(?<version>.+)$
 ARG CLEANROOMGENERATOR_VERSION="1.2.1"
 RUN <<EOF
@@ -66,7 +64,6 @@ curl --silent --show-error --location --fail --output cleanroomgenerator.jar \
 EOF
 
 FROM base AS worldedit
-# @TODO: Build from source
 # renovate: datasource=github-tags depName=EngineHub/WorldEdit
 ARG WORLDEDIT_VERSION="7.2.17"
 RUN <<EOF
@@ -81,7 +78,7 @@ WORKDIR /tmp/dynmap
 RUN git clone -q --config advice.detachedHead=false --depth 1 --branch "v${DYNMAP_VERSION}" https://github.com/webbukkit/dynmap .
 COPY dynmap-settings.gradle settings.gradle
 RUN <<EOF
-./gradlew :forge-1.20.2:build
+./gradlew setup :forge-1.20.2:build
 find . -type f -name "*.jar"
 cp ./target/Dynmap-3.7-beta-4-forge-1.20.2.jar /Dynmap.jar
 cp ./target/DynmapCore-3.7-beta-4.jar /DynmapCore.jar
