@@ -99,5 +99,6 @@ COPY --chown=minecraft:minecraft --from=multiverse-portals /multiverse-portals.j
 COPY --chown=minecraft:minecraft --from=multiverse-netherportals /multiverse-netherportals.jar /opt/minecraft-plugins/
 COPY --chown=minecraft:minecraft --from=multiverse-inventories /multiverse-inventories.jar /opt/minecraft-plugins/
 COPY --chown=minecraft:minecraft --from=luckperms /luckperms.jar /opt/minecraft-plugins/
-COPY --chown=minecraft:minecraft --from=dynmap /dynmap.jar /opt/minecraft-plugins/
+COPY --chown=minecraft:minecraft --from=voidworld /voidworld.jar /opt/minecraft-plugins/
+#COPY --chown=minecraft:minecraft --from=dynmap /dynmap.jar /opt/minecraft-plugins/
 COPY --chown=minecraft:minecraft eula.txt server.properties *.json *.yml ./
